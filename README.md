@@ -1,3 +1,5 @@
+DEMO: https://screen-recorder-pied.vercel.app
+
 # Screen Recorder Application
 
 A React-based screen recording application that allows users to record their screen, view the recorded video, and download it.
